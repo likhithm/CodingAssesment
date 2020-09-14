@@ -15,7 +15,7 @@
    3. Type "1" and press ENTER to input the string or 2 to EXIT.
    
    
-# OPTION 2 :  You can use IDE's like Eclipse or IntelliJ IDEA
+# OPTION 2 :  Install JDK and JRE and run on any IDE's like Eclipse or Terminal;
 (JDK Version : > 10.0.0)
 
   1. Install latest JDK : https://www.oracle.com/java/technologies/javase-downloads.html
@@ -27,12 +27,16 @@
   
   3. Create a .java file with the name "PlenaData". 
   
-  4. Copy & paste the PlenaData.java code in the editor and enable the interactive mode (as we need to accept input from the keyboard).
+  4. Copy & paste the PlenaData.java code in an editor and save the file.
   
-  5. You will be given the following options when you compile and run the code :-  
+  5. Go to the file location :-
+     - Compile the code : $javac PlenaData.java
+     - Run the code : $java PlenaData
+  
+  6. You will be given the following options when you compile and run the code :-  
       1. Enter a string
       2. Exit
       Enter 1 or 2:
       
-  6. Type "1" and press ENTER to input the string or 2 to EXIT.
+  7. Type "1" and press ENTER to input the string or 2 to EXIT.
    
